@@ -1,7 +1,7 @@
 # Stock-Trend-Analysis
 A Predictive Bot using Machine Learning to address the challenge of accurately predicting stock prices
 
-Python Libraries Used:'\n'
+Python Libraries Used:<br>
   •	NumPy
   •	Pandas
   •	Matplotlib
